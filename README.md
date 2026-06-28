@@ -25,53 +25,31 @@ I enjoy building intelligent engineering systems where hardware, software, and m
 I enjoy taking ideas from simulation to implementation, whether that's designing low-power digital circuits, verifying processor architectures, developing AI-powered applications, or building embedded hardware systems.
 
 ---
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-### 💻 Programming Languages
+**Programming**
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VHDL-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
-</p>
+`C/C++` • `Java` • `Python` • `Verilog` • `VHDL` • `MATLAB` • `Assembly`
 
-### 🔌 Embedded Systems
+**Embedded Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/8051_MCU-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge"/>
-</p>
+`ESP32` • `Arduino Nano` • `8051` • `Embedded C`
 
-### 🤖 Artificial Intelligence
+**Artificial Intelligence**
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time--Series_Analysis-009688?style=for-the-badge"/>
-</p>
+`Machine Learning` • `Deep Learning` • `OpenCV`  • `Transformer Models` • `Time-Series Analysis`
 
-### 🛠 Software & Tools
+**VLSI & Digital Design**
 
-<p>
-  <img src="https://img.shields.io/badge/Cadence_Virtuoso-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ModelSim-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Synopsys_VCS-3949AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Synopsys_LEDA-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design_Compiler-FF7043?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Formality-5E35B1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NetSim-43A047?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+`Cadence Virtuoso` • `ModelSim` • `Synopsys VCS` • `Synopsys LEDA` • `Design Compiler` • `Synopsys Formality`
+
+**Networking & Simulation**
+
+`Cisco Packet Tracer` • `NetSim`
+
+**Development Tools**
+
+`Git` • `GitHub` • `VS Code`
 ---
 
 # 🚀 Featured Projects
