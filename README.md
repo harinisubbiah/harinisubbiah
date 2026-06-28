@@ -48,8 +48,8 @@ I enjoy taking ideas from simulation to implementation, whether that's designing
 `Cisco Packet Tracer` • `NetSim`
 
 **Development Tools**
+`VSCODE` • `COLAB`
 
-`Git` • `GitHub` • `VS Code`
 ---
 
 # 🚀 Featured Projects
