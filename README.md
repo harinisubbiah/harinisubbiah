@@ -55,8 +55,6 @@ I enjoy taking ideas from simulation to implementation, whether that's designing
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Face_Recognition-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LDA-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Time--Series_Analysis-009688?style=for-the-badge"/>
 </p>
