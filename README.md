@@ -60,17 +60,11 @@ I enjoy taking ideas from simulation to implementation, whether that's designing
 
 🔹 Twin-Aware Face Recognition Access Control
 
-🔹 Inventory Management Dashboard
-
 🔹 Radiator Performance Monitoring System
 
 🔹 Persistence of Vision Display
 
-🔹 BusSync – Bus Bunching Simulation
-
 🔹 Obstacle Avoiding Automobile
-
-🔹 8-Input Domino Subthreshold OR Gate
 
 ---
 
